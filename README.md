@@ -20,4 +20,6 @@
 
 [*Q3_2025_Anchor_Dice *](https://github.com/stellarnodeN/Q3_25_Dice)  :  A provably fair dice betting game built on Solana using the Anchor framework. Players can place bets predicting dice roll outcomes (2-96 range) with payouts calculated using a constant house edge system. Features Ed25519 signature-based randomness generation for cryptographically verifiable fairness, secure vault management through PDAs, support for multiple concurrent bets per player, and automatic refund mechanisms for unresolved bets after timeout periods. The game implements transparent odds calculation where higher predictions yield better win chances but lower payout multipliers.
 
- 
+<h2> Q3 2025 Capstone - RecruSearch </h2>
+
+[*Q3_2025_Capstone *](https://github.com/stellarnodeN/Capstone)  : 
