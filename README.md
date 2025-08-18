@@ -22,4 +22,4 @@
 
 <h2> Q3 2025 Capstone - RecruSearch </h2>
 
-[*Q3_2025_Capstone *](https://github.com/stellarnodeN/Capstone)  : 
+[*Q3_2025_Capstone *](https://github.com/stellarnodeN/Capstone)  : RecruSearch is a decentralized research recruitment and data collection platform built on Solana using Anchor.It enables researchers to create, manage, and execute research studies while providing participants with transparent enrollment processes, on-chain consent management, and automated reward distribution. The core architecture features NFT-gated participation where participants receive Consent NFTs upon enrollment and Completion NFTs upon successful study completion. The system implements configurable eligibility criteria including age, gender, and location requirements with on-chain validation. Research data is securely stored on IPFS with cryptographic hashing, ensuring data integrity and privacy while maintaining decentralization.
